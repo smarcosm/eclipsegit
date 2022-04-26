@@ -1,4 +1,4 @@
-package com.smarcosm.awsimageupload.database;
+package com.smarcosm.awsimageupload.datastore;
 
 import java.util.List;
 import java.util.UUID;
